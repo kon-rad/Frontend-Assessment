@@ -106,6 +106,9 @@ footer ul li a {
 .header-top {
 	overflow: auto;
 }
+.header-top .left .list-h {
+    margin-top: 6px;
+}
 .heading-blue {
 	color: #7594b7;
 	text-shadow: 2px 2px #ffffff;
