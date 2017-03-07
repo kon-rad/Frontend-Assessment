@@ -36,7 +36,7 @@ body {
 	    0 0 0 4px #f0f0f0;	
 }
 .button-pink {
-
+    display: inline-block!important;
 	padding: 4px 10px;
     text-transform: uppercase;
 	background: #fde6e6; /* For browsers that do not support gradients */
