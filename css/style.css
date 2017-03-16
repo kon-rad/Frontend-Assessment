@@ -418,7 +418,7 @@ ul.list-h li a:hover {
 	    top: 12px;
 	    left: 16px;
 	}
-	.live-chat-btn {
+	a.button-pink.button-border.hidden-xs.live-chat-btn {
 		display: none!important;
 	}
 	.navbar {
