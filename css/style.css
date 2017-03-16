@@ -418,6 +418,9 @@ ul.list-h li a:hover {
 	    top: 12px;
 	    left: 16px;
 	}
+	.live-chat-btn {
+		display: none!important;
+	}
 	.navbar {
 	    position: absolute;
 	    top: 10px;
